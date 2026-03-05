@@ -1,0 +1,25 @@
+.git/
+.gitmeta/
+gitmeta/
+NovelAuthor_sync/
+.env
+.idea/
+.ipynb_checkpoints/
+.pytest_cache/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local data/artifacts
+*.db
+chroma_db/
+db/
+uploads/
+dataset/
+result.txt
